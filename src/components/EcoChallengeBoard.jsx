@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios'; // For mock API call
+// import axios from 'axios'; // For mock API call
 import ShimmerPlaceholder from './ShimmerPlaceholder'; // Import shimmer
 
 // Mock API data

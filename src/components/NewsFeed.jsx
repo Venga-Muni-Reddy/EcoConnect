@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+// import axios from 'axios';
 import ShimmerPlaceholder from './ShimmerPlaceholder';
 
 // Mock News Data (replace with actual API in production)

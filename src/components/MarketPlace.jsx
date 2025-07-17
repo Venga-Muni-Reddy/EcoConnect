@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+// import axios from 'axios';
 import { useSelector, useDispatch } from 'react-redux';
 import { addItemToCart, removeItemFromCart } from '../redux/cartSlice'; // Import actions
 import ShimmerPlaceholder from './ShimmerPlaceholder';
